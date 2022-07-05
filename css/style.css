@@ -10,7 +10,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #37db0e;
+  background-color: #0088ff;
   font-family: 'Roboto', sans-serif;
 }
 .container {
@@ -26,7 +26,7 @@ body {
   margin-bottom: 24px;
 }
 .color {
-  color: #37db0e;
+  color: #0088ff;
   /* font-family: 'Courier New', Courier, monospace; */
   font-size: 48px;
   font-family: 'Roboto Mono', monospace;
