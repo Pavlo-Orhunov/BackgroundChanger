@@ -4,7 +4,7 @@
 
 I have learned how to write a Javascript project that changes the page Background when a button is clicked.
 
-`Link to the page:`
+`Link to the page:` https://pavlo-orhunov.github.io/BackgroundChanger/
 
 
 `Below you can find a link to the initial video`
